@@ -1,9 +1,5 @@
 # ram-calculator
 
-###########################################
-FOR RAM CALCULATION
-###########################################
-
 Building and running:
 1. Run 'make clean' to remove any precompiled packages
 2. Run 'make check-ram' to compile and run the program ram_calc.c
